@@ -6,7 +6,7 @@
 Summary:	An intrinsic PEG Parser-Interpreter for Python
 Name:		python-pyPEG2
 Version:	2.15.2
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Libraries/Python
 Source0:	http://fdik.org/pyPEG2/pyPEG2-%{version}.tar.gz
